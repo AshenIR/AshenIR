@@ -19,8 +19,6 @@ Here are some ideas to get you started:
 
 📫 How to reach me: ashenirhettiarachchi@gmail.com
 
-![image](https://github.com/user-attachments/assets/533be26b-c4ce-40b9-b136-17e8a503728a)
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ashen_ir) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/ashen-irusha-hettiarachchi) 
