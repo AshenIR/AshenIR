@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Ask me about Next js ,React js, Node js and MongoDB
+💬 Ask me about Next js ,React js, Node js and MongoDB
+
+📫 How to reach me: ashenirhettiarachchi@gmail.com
 
 
 ## 🌐 Socials:
